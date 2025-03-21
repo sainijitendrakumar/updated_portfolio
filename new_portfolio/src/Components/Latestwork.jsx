@@ -17,7 +17,7 @@ function Latestwork() {
           <div class="flex flex-col items-center relative group sm:hover:scale-105 ease-in-out duration-200">
             <img
               class="max-w-[400px] w-full mr-auto relative z-10 drop-shadow-[0_0px_60px_rgba(59,130,246,0.6)]"
-              src="src\assets\images\burger_shop-removebg-preview.png"
+              src="https://ibb.co/JR77x8YH"
               alt=""
             />
 
